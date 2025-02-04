@@ -37,8 +37,7 @@ Além destes, possuo diversos outros certificados menores disponíveis na pasta 
 
 ## Contato
 
-- **LinkedIn:** [Otávio Senra](https://www.linkedin.com/in/otaviosenra)
+- **LinkedIn:** [linkedin/in/otaviosenra](https://www.linkedin.com/in/otaviosenra)
 - **E-mail:** [senraotavio@gmail.com](mailto:senraotavio@gmail.com)
-- **GitHub:** [otaviosenra](https://github.com/otaviosenra)
 
 Fique à vontade para explorar este repositório e conhecer mais sobre minha trajetória profissional e conquistas. 
