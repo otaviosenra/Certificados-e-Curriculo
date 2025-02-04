@@ -22,8 +22,8 @@ Neste repositório, você encontrará os certificados que obtive em cursos, trei
 - [JAVA Avançado - Cursos Edson Belem (48h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/JAVA_Avancado_Cursos_Edson_Belem_48h.pdf)
 - [JAVA, Spring Boot, Node, Angular - Edson Belem (32h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/JAVA_Springboot_Node_Angular_Edson_Belem_32h.pdf)
 - [Angular Basico](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/CertificadosHackerRank/Angular_Basic.pdf)
-- [Formação JavaScript Developer (39h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/CertificadosDIO/Javascript/Formacao_JavaScript_Developer_39h.pdf)
 - [Angular Avançado (8h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/CertificadosDIO/Angular/Carga%208h/Angular_8_T%C3%A9cnicas_avan%C3%A7adas_8h.pdf)
+- [Formação JavaScript Developer (39h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/CertificadosDIO/Javascript/Formacao_JavaScript_Developer_39h.pdf)
 - [Bootcamp Pottential .NET Developer (96h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/CertificadosDIO/.NET/Bootcamp_Pottencial_.NET_Developer_96h.pdf)
 - [Formação .NET Developer (93h)](https://github.com/otaviosenra/Certificados-e-Curriculo/blob/main/CertificadosDIO/.NET/Formacao_.NET_Developer_93h.pdf)
 
