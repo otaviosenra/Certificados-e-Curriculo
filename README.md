@@ -8,10 +8,10 @@ Olá, meu nome é **Otávio Senra**. Sou um profissional dedicado e apaixonado p
 
 ## Habilidades e Competências
 
-- **Front-End:** Angular (TypeScript/JavaScript/HTML/CSS), Ionic
+- **Front-End:** Angular (TypeScript/JavaScript/HTML/CSS)
 - **Back-End:** Spring Boot (Java), Node.js, .NET (C#), Python
 - **Banco de Dados:** SQL, MongoDB, MySQL, SQL Server, Oracle
-- **Ferramentas:** Git, GitHub, GitLab, Bitbucket, Postman, Docker, Jenkins, SVN Tortoise, Integrator, NPM, Maven
+- **Ferramentas:** GitHub, GitLab, Bitbucket, Postman, Docker, Jenkins, SVN Tortoise, Integrator, NPM, Maven
 - **Metodologias:** Agile, Scrum, Kanban
 - **Idiomas:** Inglês intermediário, Espanhol básico
 
